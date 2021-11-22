@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.strikt:strikt-core:0.32.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.strikt/strikt-core/0.32.0/955d7df75a2617d6c17d157910df07fd2c24b101/strikt-core-0.32.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.strikt/strikt-core/0.32.0/e6d50f753090ccfe13edb5b26a915fbade554d68/strikt-core-0.32.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.strikt/strikt-core/0.32.0/2c522dd20330fcff5248acdb67fa83e423e9ea1e/strikt-core-0.32.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574779879540",
+    "firebase_url": "https://androidrecuperarcontra-default-rtdb.firebaseio.com",
+    "project_id": "androidrecuperarcontra",
+    "storage_bucket": "androidrecuperarcontra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574779879540:android:673eeea81782a2cb8c6121",
+        "android_client_info": {
+          "package_name": "co.edu.eam.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574779879540-lvojtn9pnc2hkkm463cpekabvhm8uog5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWK4aH4T8cEoL_PNpJIbStig127Hb7KMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574779879540-lvojtn9pnc2hkkm463cpekabvhm8uog5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
